@@ -1,0 +1,9 @@
+README.md
+setup.py
+hello_cli_toolkit.egg-info/PKG-INFO
+hello_cli_toolkit.egg-info/SOURCES.txt
+hello_cli_toolkit.egg-info/dependency_links.txt
+hello_cli_toolkit.egg-info/entry_points.txt
+hello_cli_toolkit.egg-info/requires.txt
+hello_cli_toolkit.egg-info/top_level.txt
+tests/test_cli.py
